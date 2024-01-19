@@ -1,4 +1,4 @@
-# WPOpenData (Team)
+# WPOpenData
 
 ## Overview
 
