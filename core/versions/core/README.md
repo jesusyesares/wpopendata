@@ -1,4 +1,6 @@
-# WPOpenData - Core Versions
+# WPOpenData - Core Versions Core
+
+List of all WordPress versions (major and minor), with information such as release date, and changelog URL.
 
 ## Formats
 

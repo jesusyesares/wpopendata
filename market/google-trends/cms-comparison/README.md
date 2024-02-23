@@ -1,8 +1,10 @@
-# WPOpenData - Google Trends CMS Comparison
+# WPOpenData - Market Google Trends CMS Comparison
+
+Growth trends among the most popular CMS.
 
 ## Formats
 
-- [CSV](google-trends-CMS-comparison.csv)
+- [CSV](google_trends_cms_comparison.csv)
 
 ## Fields
 

@@ -1,5 +1,7 @@
 # WPOpenData - Meetup Events
 
+Details about WordPress Meetup events, including event names, dates, locations, and any additional relevant information.
+
 ## Formats
 
 - [CSV](meetup_events.csv)
@@ -7,7 +9,7 @@
 
 ## Fields
 
-- [`meetup_id`](/meetup/groups/): (int) Meetup.com Group ID.
+- [`meetup_id`](../groups/): (int) Meetup.com Group ID.
 - `meetup_event_id`: (int) Meetup.com Event ID.
 - `meetup_event_name`: (string) Event title.
 - `meetup_event_link`: (string) Meetup.com Event URL.
@@ -23,7 +25,7 @@
 - `venue_name`: (string) Venue name.
 - `venue_address`: (string) Venue address.
 - `venue_city`: (string) Venue city.
-- `venue_country_id`: [`country_id`](/country/) (string) ISO 3166 codes.
+- `venue_country_id`: [`country_id`](../../country/) (string) ISO 3166 codes.
 - `venue_lat`: (float) Venue latitude.
 - `venue_lon`: (float) Venue longitude.
 

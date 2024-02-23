@@ -1,5 +1,7 @@
 # WPOpenData - Country
 
+A comprehensive list of countries, providing essential information such as names, codes, and other relevant details.
+
 ## Formats
 
 - [CSV](country.csv)

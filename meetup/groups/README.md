@@ -1,5 +1,7 @@
 # WPOpenData - Meetup Groups
 
+Data related to WordPress Meetup groups from around the world. This dataset includes information about group names, locations, and other relevant details.
+
 ## Formats
 
 - [CSV](meetup_groups.csv)
@@ -11,7 +13,7 @@
 - `meetup_slug`: (string) Meetup.com Group Slug.
 - `meetup_name`: (string) Meetup.com Group name.
 - `meetup_link`: (string) Meetup.com Group URL.
-- [`country_id`](/country/): (string) ISO 3166 codes.
+- [`country_id`](../../country/): (string) ISO 3166 codes.
 - `meetup_members`: (int) Group members.
 - `meetup_date_created`: (date) Group creation date.
 - `meetup_lat`: (float) Group city latitude.

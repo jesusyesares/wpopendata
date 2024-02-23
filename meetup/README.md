@@ -1,4 +1,4 @@
 # WPOpenData - Meetup
 
-- [**Meetup Groups**](/meetup/groups/)
-- [**Meetup Events**](/meetup/events/)
+- [**Meetup Groups**](./groups/)
+- [**Meetup Events**](./events/)
