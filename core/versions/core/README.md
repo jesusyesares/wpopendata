@@ -2,7 +2,7 @@
 
 ## Formats
 
-- [CSV](wordpress_versions.csv)
+- [CSV](wordpress_versions_core.csv)
 
 ## Fields
 
