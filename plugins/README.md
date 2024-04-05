@@ -1,3 +1,3 @@
 # WPOpenData - WordPress Plugins
 
-- [**Plugins Directory**](./plugins-directory/)
+- [**Plugins Directory**](plugins-directory/)
