@@ -8,8 +8,8 @@ Downloads from the Plugins Directory (data available from 2007 to 2017).
 
 ## Fields
 
-- `date`: (date) Sampling date.
-- `downloads`: (int) WordPress trend.
+- `plugin_directory_date`: (date) Sampling date in format yyyy-mm-dd.
+- `plugin_directory_downloads`: (int) WordPress trend.
 
 ## Sources
 
