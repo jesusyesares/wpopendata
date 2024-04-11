@@ -1,0 +1,331 @@
+plugin_review_date,plugin_review_category,plugin_review_metric,plugin_review_value
+2023-01-02,Status,Plugins Requested,108
+2023-01-02,Status,Plugins Rejected,106
+2023-01-02,Status,Plugins Closed,54
+2023-01-02,Status,Plugins Approved,38
+2023-01-02,Plugins Queue,Plugins in Queue,368
+2023-01-02,Plugins Queue,Plugins Older week,305
+2023-01-02,Mail,New,237
+2023-01-10,Status,Plugins Requested,154
+2023-01-10,Status,Plugins Rejected,6
+2023-01-10,Status,Plugins Closed,30
+2023-01-10,Status,Plugins Approved,18
+2023-01-10,Plugins Queue,Plugins in Queue,465
+2023-01-10,Plugins Queue,Plugins Older week,328
+2023-01-10,Mail,New,255
+2023-01-16,Status,Plugins Requested,127
+2023-01-16,Status,Plugins Rejected,8
+2023-01-16,Status,Plugins Closed,53
+2023-01-16,Status,Plugins Approved,17
+2023-01-16,Plugins Queue,Plugins in Queue,472
+2023-01-16,Plugins Queue,Plugins Older week,359
+2023-01-16,Mail,New,357
+2023-01-23,Status,Plugins Requested,144
+2023-01-23,Status,Plugins Rejected,12
+2023-01-23,Status,Plugins Closed,68
+2023-01-23,Status,Plugins Approved,51
+2023-01-23,Plugins Queue,Plugins in Queue,484
+2023-01-23,Plugins Queue,Plugins Older week,370
+2023-01-23,Mail,New,438
+2023-01-30,Status,Plugins Requested,148
+2023-01-30,Status,Plugins Rejected,12
+2023-01-30,Status,Plugins Closed,9
+2023-01-30,Status,Plugins Approved,27
+2023-01-30,Plugins Queue,Plugins in Queue,526
+2023-01-30,Plugins Queue,Plugins Older week,411
+2023-01-30,Mail,New,212
+2023-02-06,Status,Plugins Requested,163
+2023-02-06,Status,Plugins Rejected,74
+2023-02-06,Status,Plugins Closed,19
+2023-02-06,Status,Plugins Approved,24
+2023-02-06,Plugins Queue,Plugins in Queue,513
+2023-02-06,Plugins Queue,Plugins Older week,354
+2023-02-06,Mail,New,229
+2023-02-13,Status,Plugins Requested,173
+2023-02-13,Status,Plugins Rejected,11
+2023-02-13,Status,Plugins Closed,18
+2023-02-13,Status,Plugins Approved,46
+2023-02-13,Plugins Queue,Plugins in Queue,549
+2023-02-13,Plugins Queue,Plugins Older week,380
+2023-02-13,Mail,New,260
+2023-02-21,Status,Plugins Requested,160
+2023-02-21,Status,Plugins Rejected,12
+2023-02-21,Status,Plugins Closed,13
+2023-02-21,Status,Plugins Approved,43
+2023-02-21,Plugins Queue,Plugins in Queue,584
+2023-02-21,Plugins Queue,Plugins Older week,431
+2023-02-21,Mail,New,301
+2023-02-27,Status,Plugins Requested,177
+2023-02-27,Status,Plugins Rejected,4
+2023-02-27,Status,Plugins Closed,12
+2023-02-27,Status,Plugins Approved,17
+2023-02-27,Plugins Queue,Plugins in Queue,656
+2023-02-27,Plugins Queue,Plugins Older week,473
+2023-02-27,Mail,New,175
+2023-03-06,Status,Plugins Requested,160
+2023-03-06,Status,Plugins Rejected,72
+2023-03-06,Status,Plugins Closed,10
+2023-03-06,Status,Plugins Approved,17
+2023-03-06,Plugins Queue,Plugins in Queue,597
+2023-03-06,Plugins Queue,Plugins Older week,432
+2023-03-06,Mail,New,222
+2023-03-13,Status,Plugins Requested,161
+2023-03-13,Status,Plugins Rejected,12
+2023-03-13,Status,Plugins Closed,34
+2023-03-13,Status,Plugins Approved,36
+2023-03-13,Plugins Queue,Plugins in Queue,596
+2023-03-13,Plugins Queue,Plugins Older week,479
+2023-03-13,Mail,New,310
+2023-03-20,Status,Plugins Requested,191
+2023-03-20,Status,Plugins Rejected,9
+2023-03-20,Status,Plugins Closed,174
+2023-03-20,Status,Plugins Closed by Author,75
+2023-03-20,Status,Plugins Closed by Guidelines,95
+2023-03-20,Status,Plugins Closed by Trademark,2
+2023-03-20,Status,Plugins Closed by Security,2
+2023-03-20,Status,Plugins Approved,8
+2023-03-20,Plugins Queue,Plugins in Queue,740
+2023-03-20,Plugins Queue,Plugins Older week,508
+2023-03-20,Mail,New,647
+2023-03-27,Status,Plugins Requested,213
+2023-03-27,Status,Plugins Rejected,4
+2023-03-27,Status,Plugins Closed,514
+2023-03-27,Status,Plugins Approved,5
+2023-03-27,Plugins Queue,Plugins in Queue,776
+2023-03-27,Plugins Queue,Plugins Older week,572
+2023-03-27,Mail,New,359
+2023-04-03,Status,Plugins Requested,183
+2023-04-03,Status,Plugins Rejected,96
+2023-04-03,Status,Plugins Closed,396
+2023-04-03,Status,Plugins Approved,2
+2023-04-03,Plugins Queue,Plugins in Queue,735
+2023-04-03,Plugins Queue,Plugins Older week,545
+2023-04-03,Mail,New,312
+2023-04-10,Status,Plugins Requested,168
+2023-04-10,Status,Plugins Rejected,5
+2023-04-10,Status,Plugins Closed,16
+2023-04-10,Status,Plugins Closed by Author,8
+2023-04-10,Status,Plugins Closed by Guidelines,1
+2023-04-10,Status,Plugins Closed by Security,6
+2023-04-10,Status,Plugins Closed by Unused,1
+2023-04-10,Status,Plugins Approved,0
+2023-04-10,Plugins Queue,Plugins in Queue,860
+2023-04-10,Plugins Queue,Plugins Older week,660
+2023-04-10,Mail,New,215
+2023-04-17,Status,Plugins Requested,163
+2023-04-17,Status,Plugins Rejected,2
+2023-04-17,Status,Plugins Closed,8
+2023-04-17,Status,Plugins Closed by Author,6
+2023-04-17,Status,Plugins Closed by Guidelines,1
+2023-04-17,Status,Plugins Closed by Security,1
+2023-04-17,Status,Plugins Approved,2
+2023-04-17,Plugins Queue,Plugins in Queue,975
+2023-04-17,Plugins Queue,Plugins Older week,758
+2023-04-17,Mail,New,210
+2023-04-24,Status,Plugins Requested,153
+2023-04-24,Status,Plugins Rejected,10
+2023-04-24,Status,Plugins Closed,38
+2023-04-24,Status,Plugins Approved,3
+2023-04-24,Plugins Queue,Plugins in Queue,1030
+2023-04-24,Plugins Queue,Plugins Older week,843
+2023-04-24,Mail,New,257
+2023-05-01,Status,Plugins Requested,138
+2023-05-01,Status,Plugins Rejected,92
+2023-05-01,Status,Plugins Closed,20
+2023-05-01,Status,Plugins Approved,4
+2023-05-01,Plugins Queue,Plugins in Queue,938
+2023-05-01,Plugins Queue,Plugins Older week,792
+2023-05-01,Mail,New,230
+2023-05-08,Status,Plugins Requested,136
+2023-05-08,Status,Plugins Rejected,6
+2023-05-08,Status,Plugins Closed,13
+2023-05-08,Status,Plugins Closed by Author,10
+2023-05-08,Status,Plugins Closed by Security,1
+2023-05-08,Status,Plugins Closed by Unused,2
+2023-05-08,Status,Plugins Approved,1
+2023-05-08,Plugins Queue,Plugins in Queue,987
+2023-05-08,Plugins Queue,Plugins Older week,836
+2023-05-08,Mail,New,213
+2023-05-15,Status,Plugins Requested,138
+2023-05-15,Status,Plugins Rejected,4
+2023-05-15,Status,Plugins Closed,20
+2023-05-15,Status,Plugins Approved,2
+2023-05-15,Plugins Queue,Plugins in Queue,1037
+2023-05-15,Plugins Queue,Plugins Older week,896
+2023-05-15,Mail,New,243
+2023-07-01,Status,Plugins Requested,887
+2023-07-01,Status,Plugins Rejected,44
+2023-07-01,Status,Plugins Closed,118
+2023-07-01,Status,Plugins Approved,101
+2023-07-01,Mail,New,1157
+2023-07-09,Status,Plugins Requested,92
+2023-07-09,Status,Plugins Rejected,0
+2023-07-09,Status,Plugins Closed,236
+2023-07-09,Status,Plugins Approved,10
+2023-07-09,Plugins Queue,Plugins in Queue,1299
+2023-07-09,Plugins Queue,Plugins Older week,1187
+2023-07-09,Mail,New,161
+2023-07-17,Status,Plugins Requested,107
+2023-07-17,Status,Plugins Rejected,1
+2023-07-17,Status,Plugins Closed,10
+2023-07-17,Status,Plugins Approved,16
+2023-07-17,Plugins Queue,Plugins in Queue,1394
+2023-07-17,Plugins Queue,Plugins Older week,1271
+2023-07-17,Mail,New Conversations,138
+2023-07-24,Status,Plugins Requested,136
+2023-07-24,Status,Plugins Rejected,1
+2023-07-24,Status,Plugins Closed,43
+2023-07-24,Status,Plugins Approved,9
+2023-07-24,Plugins Queue,Plugins in Queue,1498
+2023-07-24,Plugins Queue,Plugins Older week,1346
+2023-07-24,Mail,New Conversations,622
+2023-07-31,Status,Plugins Requested,145
+2023-07-31,Status,Plugins Rejected,1
+2023-07-31,Status,Plugins Closed,798
+2023-07-31,Status,Plugins Approved,12
+2023-07-31,Plugins Queue,Plugins in Queue,1627
+2023-07-31,Plugins Queue,Plugins Older week,1467
+2023-07-31,Mail,New,719
+2023-08-07,Status,Plugins Requested,142
+2023-08-07,Status,Plugins Rejected,1
+2023-08-07,Status,Plugins Closed,14
+2023-08-07,Status,Plugins Approved,12
+2023-08-07,Plugins Queue,Plugins in Queue,1739
+2023-08-07,Plugins Queue,Plugins Older week,1565
+2023-08-07,Mail,New,210
+2023-08-14,Status,Plugins Requested,121
+2023-08-14,Status,Plugins Rejected,0
+2023-08-14,Status,Plugins Closed,10
+2023-08-14,Status,Plugins Approved,18
+2023-08-14,Plugins Queue,Plugins in Queue,1824
+2023-08-14,Plugins Queue,Plugins Older week,1685
+2023-08-14,Mail,New,307
+2023-08-21,Status,Plugins Requested,112
+2023-08-21,Status,Plugins Rejected,0
+2023-08-21,Status,Plugins Closed,41
+2023-08-21,Status,Plugins Approved,16
+2023-08-21,Plugins Queue,Plugins in Queue,1906
+2023-08-21,Plugins Queue,Plugins Older week,1777
+2023-08-21,Mail,New,177
+2023-08-27,Status,Plugins Requested,125
+2023-08-27,Status,Plugins Rejected,0
+2023-08-27,Status,Plugins Closed,9
+2023-08-27,Status,Plugins Approved,13
+2023-08-27,Mail,New,84
+2023-09-04,Status,Plugins Requested,123
+2023-09-04,Status,Plugins Rejected,1
+2023-09-04,Status,Plugins Closed,10
+2023-09-04,Status,Plugins Approved,8
+2023-09-04,Plugins Queue,Plugins in Queue,2143
+2023-09-04,Plugins Queue,Plugins Older week,1978
+2023-09-04,Mail,New,151
+2023-09-10,Status,Plugins Requested,101
+2023-09-10,Status,Plugins Rejected,0
+2023-09-10,Status,Plugins Closed,10
+2023-09-10,Status,Plugins Approved,8
+2023-09-10,Mail,New,122
+2023-09-18,Status,Plugins Requested,100
+2023-09-18,Status,Plugins Rejected,2
+2023-09-18,Status,Plugins Closed,55
+2023-09-18,Status,Plugins Approved,21
+2023-09-18,Plugins Queue,Plugins in Queue,2298
+2023-09-18,Plugins Queue,Plugins Older week,2171
+2023-09-18,Mail,New,217
+2023-09-25,Status,Plugins Requested,107
+2023-09-25,Status,Plugins Rejected,0
+2023-09-25,Status,Plugins Closed,9
+2023-09-25,Status,Plugins Approved,26
+2023-09-25,Plugins Queue,Plugins in Queue,2087
+2023-09-25,Plugins Queue,Plugins Older week,1947
+2023-09-25,Mail,New,160
+2023-10-02,Status,Plugins Requested,99
+2023-10-02,Status,Plugins Rejected,1
+2023-10-02,Status,Plugins Closed,15
+2023-10-02,Status,Plugins Approved,42
+2023-10-02,Plugins Queue,Plugins in Queue,2135
+2023-10-02,Plugins Queue,Plugins Older week,2001
+2023-10-02,Mail,New,230
+2023-10-09,Status,Plugins Requested,98
+2023-10-09,Status,Plugins Rejected,1
+2023-10-09,Status,Plugins Closed,14
+2023-10-09,Status,Plugins Approved,28
+2023-10-09,Plugins Queue,Plugins in Queue,2180
+2023-10-09,Plugins Queue,Plugins Older week,2056
+2023-10-09,Mail,New,256
+2023-10-16,Status,Plugins Requested,95
+2023-10-16,Status,Plugins Rejected,0
+2023-10-16,Status,Plugins Closed,24
+2023-10-16,Status,Plugins Approved,40
+2023-10-16,Plugins Queue,Plugins in Queue,2236
+2023-10-16,Plugins Queue,Plugins Older week,2105
+2023-10-16,Mail,New,320
+2023-10-23,Status,Plugins Requested,80
+2023-10-23,Status,Plugins Rejected,0
+2023-10-23,Status,Plugins Closed,28
+2023-10-23,Status,Plugins Approved,26
+2023-10-23,Plugins Queue,Plugins in Queue,2297
+2023-10-23,Plugins Queue,Plugins Older week,2193
+2023-10-23,Mail,New,271
+2023-10-30,Status,Plugins Requested,106
+2023-10-30,Status,Plugins Rejected,1
+2023-10-30,Status,Plugins Closed,139
+2023-10-30,Status,Plugins Approved,39
+2023-10-30,Plugins Queue,Plugins in Queue,2350
+2023-10-30,Plugins Queue,Plugins Older week,2210
+2023-10-30,Mail,New,710
+2023-11-07,Status,Plugins Requested,100
+2023-11-07,Status,Plugins Rejected,0
+2023-11-07,Status,Plugins Closed,44
+2023-11-07,Status,Plugins Approved,40
+2023-11-07,Plugins Queue,Plugins in Queue,2430
+2023-11-07,Plugins Queue,Plugins Older week,2278
+2023-11-07,Mail,New,203
+2023-11-13,Status,Plugins Requested,128
+2023-11-13,Status,Plugins Rejected,1
+2023-11-13,Status,Plugins Closed,13
+2023-11-13,Status,Plugins Approved,16
+2023-11-13,Plugins Queue,Plugins in Queue,2506
+2023-11-13,Plugins Queue,Plugins Older week,2346
+2023-11-13,Mail,New,202
+2023-11-20,Status,Plugins Requested,93
+2023-11-20,Status,Plugins Rejected,0
+2023-11-20,Status,Plugins Closed,24
+2023-11-20,Status,Plugins Approved,31
+2023-11-20,Plugins Queue,Plugins in Queue,2544
+2023-11-20,Plugins Queue,Plugins Older week,2416
+2023-11-20,Mail,New,317
+2023-11-27,Status,Plugins Requested,90
+2023-11-27,Status,Plugins Rejected,0
+2023-11-27,Status,Plugins Closed,15
+2023-11-27,Status,Plugins Approved,25
+2023-11-27,Plugins Queue,Plugins in Queue,2601
+2023-11-27,Plugins Queue,Plugins Older week,2483
+2023-11-27,Mail,New,149
+2023-12-04,Status,Plugins Requested,85
+2023-12-04,Status,Plugins Rejected,603
+2023-12-04,Status,Plugins Closed,11
+2023-12-04,Status,Plugins Approved,23
+2023-12-04,Plugins Queue,Plugins in Queue,2063
+2023-12-04,Plugins Queue,Plugins Older week,1947
+2023-12-04,Mail,New,253
+2023-12-11,Status,Plugins Requested,114
+2023-12-11,Status,Plugins Rejected,15
+2023-12-11,Status,Plugins Closed,431
+2023-12-11,Status,Plugins Approved,46
+2023-12-11,Plugins Queue,Plugins in Queue,2106
+2023-12-11,Plugins Queue,Plugins Older week,1981
+2023-12-11,Mail,New,242
+2023-12-18,Status,Plugins Requested,111
+2023-12-18,Status,Plugins Rejected,3
+2023-12-18,Status,Plugins Closed,18
+2023-12-18,Status,Plugins Approved,47
+2023-12-18,Plugins Queue,Plugins in Queue,2179
+2023-12-18,Plugins Queue,Plugins Older week,2043
+2023-12-18,Mail,New,250
+2023-12-25,Status,Plugins Requested,94
+2023-12-25,Status,Plugins Rejected,5
+2023-12-25,Status,Plugins Closed,26
+2023-12-25,Status,Plugins Approved,37
+2023-12-25,Plugins Queue,Plugins in Queue,2233
+2023-12-25,Plugins Queue,Plugins Older week,2107
+2023-12-25,Mail,New,189

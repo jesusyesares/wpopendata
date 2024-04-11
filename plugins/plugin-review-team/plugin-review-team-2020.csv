@@ -1,0 +1,469 @@
+plugin_review_date,plugin_review_category,plugin_review_metric,plugin_review_value
+2020-01-06,Status,Plugins Requested,141
+2020-01-06,Status,Plugins Rejected,19
+2020-01-06,Status,Plugins Closed,20
+2020-01-06,Status,Plugins Approved,43
+2020-01-06,Queue,Plugins in Queue,726
+2020-01-06,Queue,Plugins Older week,632
+2020-01-06,Mail,New,159
+2020-01-06,Mail,Resolved,116
+2020-01-06,Mail,Resolved First Reply,22%
+2020-01-13,Status,Plugins Requested,163
+2020-01-13,Status,Plugins Rejected,7
+2020-01-13,Status,Plugins Closed,14
+2020-01-13,Status,Plugins Approved,67
+2020-01-13,Queue,Plugins in Queue,725
+2020-01-13,Queue,Plugins Older week,636
+2020-01-13,Mail,New,181
+2020-01-13,Mail,Resolved,158
+2020-01-13,Mail,Resolved First Reply,25%
+2020-01-20,Status,Plugins Requested,141
+2020-01-20,Status,Plugins Rejected,15
+2020-01-20,Status,Plugins Closed,12
+2020-01-20,Status,Plugins Approved,42
+2020-01-20,Queue,Plugins in Queue,738
+2020-01-20,Queue,Plugins Older week,650
+2020-01-20,Mail,New,184
+2020-01-20,Mail,Resolved,121
+2020-01-20,Mail,Resolved First Reply,34%
+2020-01-27,Status,Plugins Requested,164
+2020-01-27,Status,Plugins Rejected,7
+2020-01-27,Status,Plugins Closed,13
+2020-01-27,Status,Plugins Approved,56
+2020-01-27,Queue,Plugins in Queue,768
+2020-01-27,Queue,Plugins Older week,665
+2020-01-27,Mail,New,184
+2020-01-27,Mail,Resolved,138
+2020-01-27,Mail,Resolved First Reply,30%
+2020-02-03,Status,Plugins Requested,152
+2020-02-03,Status,Plugins Rejected,69
+2020-02-03,Status,Plugins Closed,39
+2020-02-03,Status,Plugins Approved,57
+2020-02-03,Queue,Plugins in Queue,703
+2020-02-03,Queue,Plugins Older week,604
+2020-02-03,Mail,New,257
+2020-02-03,Mail,Resolved,139
+2020-02-03,Mail,Resolved First Reply,26%
+2020-02-10,Status,Plugins Requested,165
+2020-02-10,Status,Plugins Rejected,11
+2020-02-10,Status,Plugins Closed,20
+2020-02-10,Status,Plugins Approved,63
+2020-02-10,Queue,Plugins in Queue,715
+2020-02-10,Queue,Plugins Older week,618
+2020-02-10,Mail,New,204
+2020-02-10,Mail,Resolved,176
+2020-02-10,Mail,Resolved First Reply,26%
+2020-02-17,Status,Plugins Requested,172
+2020-02-17,Status,Plugins Rejected,11
+2020-02-17,Status,Plugins Closed,14
+2020-02-17,Status,Plugins Approved,51
+2020-02-17,Queue,Plugins in Queue,796
+2020-02-17,Queue,Plugins Older week,654
+2020-02-17,Mail,New,209
+2020-02-17,Mail,Resolved,139
+2020-02-17,Mail,Resolved First Reply,32%
+2020-02-24,Status,Plugins Requested,166
+2020-02-24,Status,Plugins Rejected,9
+2020-02-24,Status,Plugins Closed,16
+2020-02-24,Status,Plugins Approved,57
+2020-02-24,Queue,Plugins in Queue,793
+2020-02-24,Queue,Plugins Older week,690
+2020-02-24,Mail,New,231
+2020-02-24,Mail,Resolved,197
+2020-02-24,Mail,Resolved First Reply,26%
+2020-03-02,Status,Plugins Requested,160
+2020-03-02,Status,Plugins Rejected,109
+2020-03-02,Status,Plugins Closed,27
+2020-03-02,Status,Plugins Approved,75
+2020-03-02,Queue,Plugins in Queue,681
+2020-03-02,Queue,Plugins Older week,601
+2020-03-02,Mail,New,294
+2020-03-02,Mail,Resolved,205
+2020-03-02,Mail,Resolved First Reply,33%
+2020-03-09,Status,Plugins Requested,142
+2020-03-09,Status,Plugins Rejected,24
+2020-03-09,Status,Plugins Closed,150
+2020-03-09,Status,Plugins Approved,47
+2020-03-09,Queue,Plugins in Queue,699
+2020-03-09,Queue,Plugins Older week,606
+2020-03-09,Mail,New,603
+2020-03-09,Mail,Resolved,228
+2020-03-09,Mail,Resolved First Reply,45%
+2020-03-16,Status,Plugins Requested,163
+2020-03-16,Status,Plugins Rejected,5
+2020-03-16,Status,Plugins Closed,380
+2020-03-16,Status,Plugins Approved,66
+2020-03-16,Queue,Plugins in Queue,724
+2020-03-16,Queue,Plugins Older week,627
+2020-03-16,Mail,New,314
+2020-03-16,Mail,Resolved,156
+2020-03-16,Mail,Resolved First Reply,31%
+2020-03-23,Status,Plugins Requested,221
+2020-03-23,Status,Plugins Rejected,11
+2020-03-23,Status,Plugins Closed,89
+2020-03-23,Status,Plugins Approved,65
+2020-03-23,Queue,Plugins in Queue,800
+2020-03-23,Queue,Plugins Older week,649
+2020-03-23,Mail,New,243
+2020-03-23,Mail,Resolved,199
+2020-03-23,Mail,Resolved First Reply,31%
+2020-03-30,Status,Plugins Requested,195
+2020-03-30,Status,Plugins Rejected,8
+2020-03-30,Status,Plugins Closed,89
+2020-03-30,Status,Plugins Approved,132
+2020-03-30,Queue,Plugins in Queue,731
+2020-03-30,Queue,Plugins Older week,592
+2020-03-30,Mail,New,229
+2020-03-30,Mail,Resolved,187
+2020-03-30,Mail,Resolved First Reply,21%
+2020-04-06,Status,Plugins Requested,189
+2020-04-06,Status,Plugins Rejected,18
+2020-04-06,Status,Plugins Closed,108
+2020-04-06,Status,Plugins Approved,83
+2020-04-06,Queue,Plugins in Queue,731
+2020-04-06,Queue,Plugins Older week,637
+2020-04-06,Mail,New,242
+2020-04-06,Mail,Resolved,226
+2020-04-06,Mail,Resolved First Reply,30%
+2020-04-13,Status,Plugins Requested,202
+2020-04-13,Status,Plugins Rejected,10
+2020-04-13,Status,Plugins Closed,86
+2020-04-13,Status,Plugins Approved,76
+2020-04-13,Queue,Plugins in Queue,775
+2020-04-13,Queue,Plugins Older week,653
+2020-04-13,Mail,New,204
+2020-04-13,Mail,Resolved,140
+2020-04-13,Mail,Resolved First Reply,29%
+2020-04-20,Status,Plugins Requested,209
+2020-04-20,Status,Plugins Rejected,13
+2020-04-20,Status,Plugins Closed,84
+2020-04-20,Status,Plugins Approved,70
+2020-04-20,Queue,Plugins in Queue,823
+2020-04-20,Queue,Plugins Older week,685
+2020-04-20,Mail,New,256
+2020-04-20,Mail,Resolved,191
+2020-04-20,Mail,Resolved First Reply,32%
+2020-04-27,Status,Plugins Requested,207
+2020-04-27,Status,Plugins Rejected,108
+2020-04-27,Status,Plugins Closed,35
+2020-04-27,Status,Plugins Approved,96
+2020-04-27,Queue,Plugins in Queue,728
+2020-04-27,Queue,Plugins Older week,617
+2020-04-27,Mail,New,239
+2020-04-27,Mail,Resolved,233
+2020-04-27,Mail,Resolved First Reply,21%
+2020-05-04,Status,Plugins Requested,203
+2020-05-04,Status,Plugins Rejected,13
+2020-05-04,Status,Plugins Closed,30
+2020-05-04,Status,Plugins Approved,95
+2020-05-04,Queue,Plugins in Queue,731
+2020-05-04,Queue,Plugins Older week,627
+2020-05-04,Mail,New,229
+2020-05-04,Mail,Resolved,198
+2020-05-04,Mail,Resolved First Reply,27%
+2020-05-11,Status,Plugins Requested,191
+2020-05-11,Status,Plugins Rejected,15
+2020-05-11,Status,Plugins Closed,40
+2020-05-11,Status,Plugins Approved,97
+2020-05-11,Queue,Plugins in Queue,735
+2020-05-11,Queue,Plugins Older week,651
+2020-05-11,Mail,New,236
+2020-05-11,Mail,Resolved,191
+2020-05-11,Mail,Resolved First Reply,30%
+2020-05-18,Status,Plugins Requested,212
+2020-05-18,Status,Plugins Rejected,13
+2020-05-18,Status,Plugins Closed,16
+2020-05-18,Status,Plugins Approved,81
+2020-05-18,Queue,Plugins in Queue,813
+2020-05-18,Queue,Plugins Older week,688
+2020-05-18,Mail,New,222
+2020-05-18,Mail,Resolved,195
+2020-05-18,Mail,Resolved First Reply,24%
+2020-05-25,Status,Plugins Requested,213
+2020-05-25,Status,Plugins Rejected,15
+2020-05-25,Status,Plugins Closed,26
+2020-05-25,Status,Plugins Approved,120
+2020-05-25,Queue,Plugins in Queue,795
+2020-05-25,Queue,Plugins Older week,705
+2020-05-25,Mail,New,231
+2020-05-25,Mail,Resolved,192
+2020-05-25,Mail,Resolved First Reply,26%
+2020-06-01,Status,Plugins Requested,168
+2020-06-01,Status,Plugins Rejected,100
+2020-06-01,Status,Plugins Closed,57
+2020-06-01,Status,Plugins Approved,50
+2020-06-01,Queue,Plugins in Queue,758
+2020-06-01,Queue,Plugins Older week,638
+2020-06-01,Mail,New,193
+2020-06-01,Mail,Resolved,159
+2020-06-01,Mail,Resolved First Reply,30%
+2020-06-08,Status,Plugins Requested,179
+2020-06-08,Status,Plugins Rejected,10
+2020-06-08,Status,Plugins Closed,47
+2020-06-08,Status,Plugins Approved,73
+2020-06-08,Queue,Plugins in Queue,760
+2020-06-08,Queue,Plugins Older week,658
+2020-06-08,Mail,New,200
+2020-06-08,Mail,Resolved,174
+2020-06-08,Mail,Resolved First Reply,23%
+2020-06-15,Status,Plugins Requested,174
+2020-06-15,Status,Plugins Rejected,8
+2020-06-15,Status,Plugins Closed,38
+2020-06-15,Status,Plugins Approved,66
+2020-06-15,Queue,Plugins in Queue,787
+2020-06-15,Queue,Plugins Older week,681
+2020-06-15,Mail,New,226
+2020-06-15,Mail,Resolved,192
+2020-06-15,Mail,Resolved First Reply,27%
+2020-06-22,Status,Plugins Requested,169
+2020-06-22,Status,Plugins Rejected,10
+2020-06-22,Status,Plugins Closed,31
+2020-06-22,Status,Plugins Approved,63
+2020-06-22,Queue,Plugins in Queue,793
+2020-06-22,Queue,Plugins Older week,692
+2020-06-22,Mail,New,246
+2020-06-22,Mail,Resolved,225
+2020-06-22,Mail,Resolved First Reply,35%
+2020-06-29,Status,Plugins Requested,181
+2020-06-29,Status,Plugins Rejected,98
+2020-06-29,Status,Plugins Closed,21
+2020-06-29,Status,Plugins Approved,83
+2020-06-29,Queue,Plugins in Queue,749
+2020-06-29,Queue,Plugins Older week,636
+2020-06-29,Mail,New,166
+2020-06-29,Mail,Resolved,151
+2020-06-29,Mail,Resolved First Reply,31%
+2020-07-06,Status,Plugins Requested,171
+2020-07-06,Status,Plugins Rejected,12
+2020-07-06,Status,Plugins Closed,23
+2020-07-06,Status,Plugins Approved,85
+2020-07-06,Queue,Plugins in Queue,723
+2020-07-06,Queue,Plugins Older week,647
+2020-07-06,Mail,New,Unavailable
+2020-07-06,Mail,Resolved,Unavailable
+2020-07-06,Mail,Resolved First Reply,Unavailable
+2020-06-29,Status,Plugins Requested,167
+2020-06-29,Status,Plugins Rejected,7
+2020-06-29,Status,Plugins Closed,34
+2020-06-29,Status,Plugins Approved,84
+2020-06-29,Queue,Plugins in Queue,728
+2020-06-29,Queue,Plugins Older week,650
+2020-06-29,Mail,New,202
+2020-06-29,Mail,Resolved,183
+2020-06-29,Mail,Resolved First Reply,28%
+2020-07-20,Status,Plugins Requested,156
+2020-07-20,Status,Plugins Rejected,12
+2020-07-20,Status,Plugins Closed,14
+2020-07-20,Status,Plugins Approved,60
+2020-07-20,Queue,Plugins in Queue,753
+2020-07-20,Queue,Plugins Older week,665
+2020-07-20,Mail,New,136
+2020-07-20,Mail,Resolved,123
+2020-07-20,Mail,Resolved First Reply,23%
+2020-07-27,Status,Plugins Requested,212
+2020-07-27,Status,Plugins Rejected,18
+2020-07-27,Status,Plugins Closed,16
+2020-07-27,Status,Plugins Approved,105
+2020-07-27,Queue,Plugins in Queue,774
+2020-07-27,Queue,Plugins Older week,683
+2020-07-27,Mail,New,206
+2020-07-27,Mail,Resolved,166
+2020-07-27,Mail,Resolved First Reply,23%
+2020-08-03,Status,Plugins Requested,159
+2020-08-03,Status,Plugins Rejected,70
+2020-08-03,Status,Plugins Closed,84
+2020-08-03,Status,Plugins Approved,62
+2020-08-03,Queue,Plugins in Queue,723
+2020-08-03,Queue,Plugins Older week,636
+2020-08-03,Mail,New,Unavailable
+2020-08-03,Mail,Resolved,Unavailable
+2020-08-03,Mail,Resolved First Reply,Unavailable
+2020-08-10,Status,Plugins Requested,149
+2020-08-10,Status,Plugins Rejected,5
+2020-08-10,Status,Plugins Closed,600
+2020-08-10,Status,Plugins Approved,64
+2020-08-10,Queue,Plugins in Queue,728
+2020-08-10,Queue,Plugins Older week,647
+2020-08-10,Mail,New Conversations,325
+2020-08-10,Mail,Resolved,236
+2020-08-10,Mail,Resolved First Reply,42%
+2020-08-17,Status,Plugins Requested,169
+2020-08-17,Status,Plugins Rejected,4
+2020-08-17,Status,Plugins Closed,40
+2020-08-17,Status,Plugins Approved,67
+2020-08-17,Queue,Plugins in Queue,759
+2020-08-17,Queue,Plugins Older week,657
+2020-08-17,Mail,New Conversations,229
+2020-08-17,Mail,Resolved,187
+2020-08-17,Mail,Resolved First Reply,28%
+2020-08-24,Status,Plugins Requested,166
+2020-08-24,Status,Plugins Rejected,9
+2020-08-24,Status,Plugins Closed,42
+2020-08-24,Status,Plugins Approved,81
+2020-08-24,Queue,Plugins in Queue,744
+2020-08-24,Queue,Plugins Older week,660
+2020-08-24,Mail,New Conversations,229
+2020-08-24,Mail,Resolved,215
+2020-08-24,Mail,Resolved First Reply,28%
+2020-08-31,Status,Plugins Requested,181
+2020-08-31,Status,Plugins Rejected,90
+2020-08-31,Status,Plugins Closed,13
+2020-08-31,Status,Plugins Approved,66
+2020-08-31,Queue,Plugins in Queue,699
+2020-08-31,Queue,Plugins Older week,589
+2020-08-31,Mail,New Conversations,232
+2020-08-31,Mail,Resolved,153
+2020-08-31,Mail,Resolved First Reply,28%
+2020-09-08,Status,Plugins Requested,157
+2020-09-08,Status,Plugins Rejected,4
+2020-09-08,Status,Plugins Closed,17
+2020-09-08,Status,Plugins Approved,63
+2020-09-08,Queue,Plugins in Queue,703
+2020-09-08,Queue,Plugins Older week,609
+2020-09-08,Mail,New,203
+2020-09-08,Mail,Resolved,176
+2020-09-08,Mail,Resolved First Reply,31%
+2020-09-14,Status,Plugins Requested,147
+2020-09-14,Status,Plugins Rejected,9
+2020-09-14,Status,Plugins Closed,12
+2020-09-14,Status,Plugins Approved,68
+2020-09-14,Queue,Plugins in Queue,719
+2020-09-14,Queue,Plugins Older week,625
+2020-09-14,Mail,New Conversations,187
+2020-09-14,Mail,Resolved,156
+2020-09-14,Mail,Resolved First Reply,29%
+2020-09-21,Status,Plugins Requested,143
+2020-09-21,Status,Plugins Rejected,5
+2020-09-21,Status,Plugins Closed,37
+2020-09-21,Status,Plugins Approved,60
+2020-09-21,Queue,Plugins in Queue,735
+2020-09-21,Queue,Plugins Older week,654
+2020-09-21,Mail,New,197
+2020-09-21,Mail,Resolved,178
+2020-09-21,Mail,Resolved First Reply,27%
+2020-09-28,Status,Plugins Requested,151
+2020-09-28,Status,Plugins Rejected,88
+2020-09-28,Status,Plugins Closed,28
+2020-09-28,Status,Plugins Approved,64
+2020-09-28,Queue,Plugins in Queue,671
+2020-09-28,Queue,Plugins Older week,557
+2020-09-28,Mail,New,172
+2020-09-28,Mail,Resolved,129
+2020-09-28,Mail,Resolved First Reply,29%
+2020-10-05,Status,Plugins Requested,156
+2020-10-05,Status,Plugins Rejected,8
+2020-10-05,Status,Plugins Closed,20
+2020-10-05,Status,Plugins Approved,64
+2020-10-05,Queue,Plugins in Queue,683
+2020-10-05,Queue,Plugins Older week,583
+2020-10-05,Mail,New,241
+2020-10-05,Mail,Resolved,207
+2020-10-05,Mail,Resolved First Reply,33%
+2020-10-12,Status,Plugins Requested,163
+2020-10-12,Status,Plugins Rejected,3
+2020-10-12,Status,Plugins Closed,23
+2020-10-12,Status,Plugins Approved,62
+2020-10-12,Queue,Plugins in Queue,677
+2020-10-12,Queue,Plugins Older week,598
+2020-10-12,Mail,New,244
+2020-10-12,Mail,Resolved,211
+2020-10-12,Mail,Resolved First Reply,32%
+2020-10-19,Status,Plugins Requested,149
+2020-10-19,Status,Plugins Rejected,6
+2020-10-19,Status,Plugins Closed,21
+2020-10-19,Status,Plugins Approved,51
+2020-10-19,Queue,Plugins in Queue,698
+2020-10-19,Queue,Plugins Older week,605
+2020-10-19,Mail,New,194
+2020-10-19,Mail,Resolved,174
+2020-10-19,Mail,Resolved First Reply,27%
+2020-10-26,Status,Plugins Requested,160
+2020-10-26,Status,Plugins Rejected,7
+2020-10-26,Status,Plugins Closed,30
+2020-10-26,Status,Plugins Approved,56
+2020-10-26,Queue,Plugins in Queue,730
+2020-10-26,Queue,Plugins Older week,629
+2020-10-26,Mail,New Conversations,197
+2020-10-26,Mail,Resolved,171
+2020-10-26,Mail,Resolved First Reply,21%
+2020-11-02,Status,Plugins Requested,164
+2020-11-02,Status,Plugins Rejected,111
+2020-11-02,Status,Plugins Closed,17
+2020-11-02,Status,Plugins Approved,52
+2020-11-02,Queue,Plugins in Queue,645
+2020-11-02,Queue,Plugins Older week,534
+2020-11-02,Mail,New,217
+2020-11-02,Mail,Resolved,175
+2020-11-02,Mail,Resolved First Reply,22%
+2020-11-09,Status,Plugins Requested,157
+2020-11-09,Status,Plugins Rejected,4
+2020-11-09,Status,Plugins Closed,32
+2020-11-09,Status,Plugins Approved,58
+2020-11-09,Queue,Plugins in Queue,651
+2020-11-09,Queue,Plugins Older week,551
+2020-11-09,Mail,New,202
+2020-11-09,Mail,Resolved,175
+2020-11-09,Mail,Resolved First Reply,31%
+2020-11-16,Status,Plugins Requested,144
+2020-11-16,Status,Plugins Rejected,3
+2020-11-16,Status,Plugins Closed,19
+2020-11-16,Status,Plugins Approved,53
+2020-11-16,Queue,Plugins in Queue,694
+2020-11-16,Queue,Plugins Older week,612
+2020-11-16,Mail,New Conversations,220
+2020-11-16,Mail,Resolved,191
+2020-11-16,Mail,Resolved First Reply,29%
+2020-11-23,Status,Plugins Requested,169
+2020-11-23,Status,Plugins Rejected,9
+2020-11-23,Status,Plugins Closed,17
+2020-11-23,Status,Plugins Approved,67
+2020-11-23,Queue,Plugins in Queue,702
+2020-11-23,Queue,Plugins Older week,607
+2020-11-23,Mail,New Conversations,233
+2020-11-23,Mail,Resolved,200
+2020-11-23,Mail,Resolved First Reply,23%
+2020-11-30,Status,Plugins Requested,161
+2020-11-30,Status,Plugins Rejected,2
+2020-11-30,Status,Plugins Closed,339
+2020-11-30,Status,Plugins Approved,60
+2020-11-30,Queue,Plugins in Queue,633
+2020-11-30,Queue,Plugins Older week,527
+2020-11-30,Mail,New,649
+2020-11-30,Mail,Resolved,224
+2020-11-30,Mail,Resolved First Reply,34%
+2020-11-30,Status,Plugins Requested,131
+2020-11-30,Status,Plugins Rejected,88
+2020-11-30,Status,Plugins Closed,312
+2020-11-30,Status,Plugins Approved,54
+2020-11-30,Queue,Plugins in Queue,608
+2020-11-30,Queue,Plugins Older week,536
+2020-11-30,Mail,New,228
+2020-11-30,Mail,Resolved,204
+2020-11-30,Mail,Resolved First Reply,31%
+2020-12-07,Status,Plugins Requested,148
+2020-12-07,Status,Plugins Rejected,12
+2020-12-07,Status,Plugins Closed,22
+2020-12-07,Status,Plugins Approved,67
+2020-12-07,Queue,Plugins in Queue,709
+2020-12-07,Queue,Plugins Older week,629
+2020-12-07,Mail,New Conversations,212
+2020-12-07,Mail,Resolved,188
+2020-12-07,Mail,Resolved First Reply,25%
+2020-12-21,Status,Plugins Requested,153
+2020-12-21,Status,Plugins Rejected,10
+2020-12-21,Status,Plugins Closed,29
+2020-12-21,Status,Plugins Approved,68
+2020-12-21,Queue,Plugins in Queue,667
+2020-12-21,Queue,Plugins Older week,583
+2020-12-21,Mail,New Conversations,236
+2020-12-21,Mail,Resolved,182
+2020-12-21,Mail,Resolved First Reply,35%
+2020-12-28,Status,Plugins Requested,144
+2020-12-28,Status,Plugins Rejected,93
+2020-12-28,Status,Plugins Closed,16
+2020-12-28,Status,Plugins Approved,81
+2020-12-28,Queue,Plugins in Queue,596
+2020-12-28,Queue,Plugins Older week,525
+2020-12-28,Mail,New Conversations,168
+2020-12-28,Mail,Resolved,142
+2020-12-28,Mail,Resolved First Reply,25%
