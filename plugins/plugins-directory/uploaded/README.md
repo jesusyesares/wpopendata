@@ -8,7 +8,7 @@ Number of plugins available from the Plugins Directory.
 
 ## Fields
 
-- `plugin_directory_date`: (date) Sampling date in format yyyy-mm-dd.
+- `plugin_directory_date`: (date) Sampling date YYYY-MM-DD.
 - `plugin_directory_num_plugins`: (int) WordPress trend.
 
 ## Sources
