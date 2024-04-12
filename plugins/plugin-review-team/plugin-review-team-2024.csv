@@ -1,0 +1,104 @@
+plugin_review_date,plugin_review_category,plugin_review_metric,plugin_review_value
+2024-01-08,Status,Plugins Requested,100
+2024-01-08,Status,Plugins Rejected,0
+2024-01-08,Status,Plugins Closed,43
+2024-01-08,Status,Plugins Approved,21
+2024-01-08,Plugins Queue,Plugins in Queue,2379
+2024-01-08,Plugins Queue,Plugins Older week,2225
+2024-01-08,Mail,New,269
+2024-01-15,Status,Plugins Requested,115
+2024-01-15,Status,Plugins Rejected,0
+2024-01-15,Status,Plugins Closed,32
+2024-01-15,Status,Plugins Approved,61
+2024-01-15,Plugins Queue,Plugins in Queue,2429
+2024-01-15,Plugins Queue,Plugins Older week,2283
+2024-01-15,Mail,New,337
+2024-01-22,Status,Plugins Requested,132
+2024-01-22,Status,Plugins Rejected,7
+2024-01-22,Status,Plugins Closed,54
+2024-01-22,Status,Plugins Approved,75
+2024-01-22,Plugins Queue,Plugins in Queue,2472
+2024-01-22,Plugins Queue,Plugins Older week,2292
+2024-01-22,Mail,New,575
+2024-01-29,Status,Plugins Requested,125
+2024-01-29,Status,Plugins Rejected,7
+2024-01-29,Status,Plugins Closed,25
+2024-01-29,Status,Plugins Approved,47
+2024-01-29,Plugins Queue,Plugins in Queue,2543
+2024-01-29,Plugins Queue,Plugins Older week,2372
+2024-01-29,Mail,New,378
+2024-02-06,Status,Plugins Requested,113
+2024-02-06,Status,Plugins Rejected,8
+2024-02-06,Status,Plugins Closed,39
+2024-02-06,Status,Plugins Approved,62
+2024-02-06,Plugins Queue,Plugins in Queue,2602
+2024-02-06,Plugins Queue,Plugins Older week,2419
+2024-02-06,Mail,New,181
+2024-02-09,Status,Plugins Requested,98
+2024-02-09,Status,Plugins Rejected,2
+2024-02-09,Status,Plugins Closed,6
+2024-02-09,Status,Plugins Approved,37
+2024-02-09,Mail,New Conversations,161
+2024-02-12,Status,Plugins Requested,100
+2024-02-12,Status,Plugins Rejected,5
+2024-02-12,Status,Plugins Closed,70
+2024-02-12,Status,Plugins Approved,60
+2024-02-12,Plugins Queue,Plugins in Queue,150
+2024-02-12,Plugins Queue,Plugins Older week,100
+2024-02-12,Mail,New,75
+2024-02-19,Status,Plugins Requested,120
+2024-02-19,Status,Plugins Rejected,10
+2024-02-19,Status,Plugins Closed,80
+2024-02-19,Status,Plugins Approved,50
+2024-02-19,Plugins Queue,Plugins in Queue,160
+2024-02-19,Plugins Queue,Plugins Older week,110
+2024-02-19,Mail,New,80
+2024-02-27,Status,Plugins Requested,133
+2024-02-27,Status,Plugins Rejected,1
+2024-02-27,Status,Plugins Closed,26
+2024-02-27,Status,Plugins Approved,55
+2024-02-27,Plugins Queue,Plugins in Queue,2202
+2024-02-27,Plugins Queue,Plugins Older week,1908
+2024-02-27,Mail,New,209
+2024-03-04,Status,Plugins Requested,106
+2024-03-04,Status,Plugins Rejected,8
+2024-03-04,Status,Plugins Closed,42
+2024-03-04,Status,Plugins Approved,100
+2024-03-04,Plugins Queue,Plugins in Queue,2184
+2024-03-04,Plugins Queue,Plugins Older week,1939
+2024-03-04,Mail,New,205
+2024-03-11,Status,Plugins Requested,128
+2024-03-11,Status,Plugins Rejected,13
+2024-03-11,Status,Plugins Closed,555
+2024-03-11,Status,Plugins Approved,77
+2024-03-11,Plugins Queue,Plugins in Queue,2219
+2024-03-11,Plugins Queue,Plugins Older week,1972
+2024-03-11,Mail,New,1009
+2024-03-18,Status,Plugins Requested,130
+2024-03-18,Status,Plugins Rejected,2
+2024-03-18,Status,Plugins Closed,45
+2024-03-18,Status,Plugins Approved,86
+2024-03-18,Plugins Queue,Plugins in Queue,2255
+2024-03-18,Plugins Queue,Plugins Older week,2053
+2024-03-18,Mail,New,670
+2024-03-25,Status,Plugins Requested,117
+2024-03-25,Status,Plugins Rejected,1
+2024-03-25,Status,Plugins Closed,323
+2024-03-25,Status,Plugins Approved,64
+2024-03-25,Plugins Queue,Plugins in Queue,2316
+2024-03-25,Plugins Queue,Plugins Older week,2167
+2024-03-25,Mail,New,195
+2024-04-01,Status,Plugins Requested,84
+2024-04-01,Status,Plugins Rejected,2
+2024-04-01,Status,Plugins Closed,25
+2024-04-01,Status,Plugins Approved,55
+2024-04-01,Plugins Queue,Plugins in Queue,2329
+2024-04-01,Plugins Queue,Plugins Older week,2223
+2024-04-01,Mail,New,217
+2024-04-08,Status,Plugins Requested,96
+2024-04-08,Status,Plugins Rejected,10
+2024-04-08,Status,Plugins Closed,16
+2024-04-08,Status,Plugins Approved,55
+2024-04-08,Plugins Queue,Plugins in Queue,2371
+2024-04-08,Plugins Queue,Plugins Older week,2256
+2024-04-08,Mail,New,253
